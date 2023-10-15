@@ -1,4 +1,6 @@
-Build Configuration Settings in iOS
+Build Configuration Settings in iOS 
+
+
 It is a plain text file with xcconfig extension and can be easily created in Xcode. It provides a central place for all the build settings you want to modify. One can create multiple configuration files. 
 Build configuration setting can be linked to App Configuration(debug, release, user defined) which can be easily accessed via active Scheme. In this tutorial we will utilize build configuration settings to set app name, icon and bundle identifier. 
 We will create a test app with three build configuration setting files (dev, qa and release) which will be linked to three app configurations(Dev, QA and Prod) and finally we will link configuration to a scheme respectively. Please the high level flow below
@@ -8,3 +10,5 @@ We will create a test app with three build configuration setting files (dev, qa 
 There are two parts of this tutorial Setup and Use
 Setup: We will create build configuration files, app configurations, schemes and do the plumbing work.
 Use: This is fun part. We will utilize configurations to setup app name, icon and identifier.
+
+Please find full tutorial here: https://medium.com/@bharti.sanjeev2015/build-configuration-settings-in-ios-8b20f98ae3ea?sk=6b1650a234f9915d7fdbe919b45bfc3e
