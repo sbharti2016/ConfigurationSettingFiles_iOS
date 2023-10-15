@@ -1,0 +1,21 @@
+//
+//  DevConfig.xcconfig
+//  TestApp
+//
+//  Created by Sanjeev Bharti on 10/13/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// Set App Name for Dev environment
+APP_NAME = Test App Dev
+
+// Set App Icon for Dev environment
+APP_ICON = AppIcon_Dev
+
+// Set Bundle Identifier for Dev environment
+APP_BUNDLE_ID = com.test.dev
+
+// User Defined Settings
+APP_ID = DEV

@@ -1,0 +1,21 @@
+//
+//  ProdConfig.xcconfig
+//  TestApp
+//
+//  Created by Sanjeev Bharti on 10/13/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// Set App Name for Production environment
+APP_NAME = Test App
+
+// Set App Icon for Production environment
+APP_ICON = AppIcon
+
+// Set Bundle Identifier for Production environment
+APP_BUNDLE_ID = com.test.prod
+
+// User Defined Settings for Production environment
+APP_ID = PROD
